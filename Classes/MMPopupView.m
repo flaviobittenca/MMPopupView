@@ -10,7 +10,7 @@
 #import "MMPopupWindow.h"
 #import "MMPopupDefine.h"
 #import "MMPopupCategory.h"
-#import <Masonry/Masonry.h>
+#import "Masonry.h"
 
 static NSString * const MMPopupViewHideAllNotification = @"MMPopupViewHideAllNotification";
 

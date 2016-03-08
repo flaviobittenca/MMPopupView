@@ -9,7 +9,7 @@
 #import "MMPopupCategory.h"
 #import "MMPopupDefine.h"
 #import "MMPopupWindow.h"
-#import <Masonry/Masonry.h>
+#import "Masonry.h"
 #import <objc/runtime.h>
 
 @implementation UIColor (MMPopup)

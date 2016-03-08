@@ -10,7 +10,7 @@
 #import "MMPopupItem.h"
 #import "MMPopupCategory.h"
 #import "MMPopupDefine.h"
-#import <Masonry/Masonry.h>
+#import "Masonry.h"
 
 @interface MMSheetView()
 
